@@ -41,7 +41,7 @@ export default function Header({
             <a className="header-logo">
               {/* eslint-disable-next-line */}
               <img
-                src="./logo.png"
+                src="/logo.png"
                 alt="Dusty Vaults"
               />
               <i>Dusty Vaults</i>
